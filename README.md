@@ -1,36 +1,29 @@
-# Hi there, I'm Kashaf Ahmed 👋
+# Kashaf Ahmed
 
-**SDE 3 @ goHighLevel | Tech Debt Collector | Can’t fix my sleep schedule, but I can fix your merge conflict**
+Senior software engineer (SDE 3 at goHighLevel). I build developer tools for AI agents, and the TypeScript and Node.js backends that sit behind products.
 
----
+Lately that means making agents do real work safely: watching video files, and staying inside a budget and a set of permissions.
 
-### 🚀 About Me
-I'm a Senior Software Engineer who thrives on solving engineering challenges. Whether it's building scalable web platforms, untangling tech debt, or shipping features end-to-end, I see skills as tools—ready to be picked up and wielded as needed.
+## Selected work
 
-- Fullstack developer (but always learning new tools and tricks)
-- Passionate about creative problem-solving in tech
-- Known for fixing merge conflicts faster than fixing my sleep schedule
+**[vwatch](https://github.com/kashaf12/vwatch)** · Python · MCP server and Claude Code plugin\
+Lets a coding agent watch local videos: timestamped frame grids, dense seeks, crops, a transcript and model-free glitch signals. On a pre-registered benchmark of 48 unseen videos it matched plain Claude Code on accuracy at 36% lower cost and 29% less time. On PyPI and the official MCP Registry, and works with Claude Code, Codex, Gemini CLI and Cursor.
 
----
+**[Mandate](https://github.com/kashaf12/mandate)** · TypeScript SDK\
+Runtime enforcement for AI agent authority. Budgets, tool allowlists, rate limits, a kill switch and an audit trail are enforced in code, not in the prompt, and fail closed. Budget checks stay atomic across servers through Redis Lua scripts.
 
-### 🔧 Featured Projects
-- [Bulk Action Platform](https://github.com/kashaf12/bulk-action-platform): Automating bulk operations for teams and platforms.
-- [URL Shortener](https://github.com/kashaf12/url-shortener): Simple, fast, and reliable link shortening.
+**[Logical Diff](https://github.com/kashaf12/logical-diff)** · TypeScript · Chrome extension\
+Shows only the logic changes in a GitHub pull request. It compares ASTs to hide import reorders, consistent renames and whitespace, so reviewers read what actually changed.
 
----
+**[Bulk Action Platform](https://github.com/kashaf12/bulk-action-platform)** · Node.js, PostgreSQL, Redis, BullMQ, MinIO\
+Runs bulk operations on large CSV uploads asynchronously: chunking and processing workers, validation and deduplication, progress tracking and per-account rate limiting.
 
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kashaf-ahmed/)
+Also: a [URL shortener](https://github.com/kashaf12/url-shortener) monorepo (NestJS, Next.js, Supabase) with a [live demo](https://url-shortener-frontend-plum.vercel.app/).
 
----
+## Stack
 
-### ⚡ Fun Fact
-I collect tech debt so you don’t have to. Ask me about how I solve gnarly technical problems—or about the best way to squash merge conflicts!
+TypeScript, Node.js, NestJS, React, Next.js, React Native (Expo), Python, PostgreSQL, Redis, Docker.
 
-```
-SDE 3 | Tech Debt Collector | Can’t fix my sleep schedule, but I can fix your merge conflict
-```
+## Contact
 
----
-
-<sub>Always learning. Always building.</sub>
+[LinkedIn](https://www.linkedin.com/in/kashaf-ahmed/)
