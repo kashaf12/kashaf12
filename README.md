@@ -6,7 +6,7 @@ Lately that means making agents do real work safely: watching video files, and s
 
 ## Selected work
 
-**Vamio** · React Native, Expo, TypeScript, Firebase · iOS and Android\
+**[Vamio](https://vamio.app)** · React Native, Expo, TypeScript, Firebase · iOS and Android\
 Group drives in sync: one person creates a trip, shares an invite code, and everyone's location shows on one live map. Live on the [App Store](https://apps.apple.com/app/vamio/id6760580479) and [Google Play](https://play.google.com/store/apps/details?id=app.vamio), with 900+ users signed up.
 
 **[vwatch](https://github.com/kashaf12/vwatch)** · Python · MCP server and Claude Code plugin\
