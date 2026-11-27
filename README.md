@@ -1,10 +1,13 @@
 # Kashaf Ahmed
 
-Senior software engineer (SDE 3 at goHighLevel). I build developer tools for AI agents, and the TypeScript and Node.js backends that sit behind products.
+Senior software engineer (SDE 3 at goHighLevel). I ship mobile apps and developer tools for AI agents, plus the TypeScript and Node.js backends behind them.
 
 Lately that means making agents do real work safely: watching video files, and staying inside a budget and a set of permissions.
 
 ## Selected work
+
+**Vamio** · React Native, Expo, TypeScript, Firebase · iOS and Android\
+Group drives in sync: one person creates a trip, shares an invite code, and everyone's location shows on one live map. Live on the [App Store](https://apps.apple.com/app/vamio/id6760580479) and [Google Play](https://play.google.com/store/apps/details?id=app.vamio), with 900+ users signed up.
 
 **[vwatch](https://github.com/kashaf12/vwatch)** · Python · MCP server and Claude Code plugin\
 Lets a coding agent watch local videos: timestamped frame grids, dense seeks, crops, a transcript and model-free glitch signals. On a pre-registered benchmark of 48 unseen videos it matched plain Claude Code on accuracy at 36% lower cost and 29% less time. On PyPI and the official MCP Registry, and works with Claude Code, Codex, Gemini CLI and Cursor.
@@ -22,7 +25,7 @@ Also: a [URL shortener](https://github.com/kashaf12/url-shortener) monorepo (Nes
 
 ## Stack
 
-TypeScript, Node.js, NestJS, React, Next.js, React Native (Expo), Python, PostgreSQL, Redis, Docker.
+TypeScript, Node.js, NestJS, React, Next.js, React Native (Expo), Python, Firebase, PostgreSQL, Redis, Docker.
 
 ## Contact
 
